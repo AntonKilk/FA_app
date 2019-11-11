@@ -36,5 +36,5 @@ The application should be used by “experienced” AF patients, which means tha
   * Take prescriptions 
   * Follow routine agreed with cardiologist
 * If the difference is shorter than delta  - Regular rhythm
- 	* Try to measure again.
+  * Try to measure again.
  
