@@ -8,7 +8,9 @@ Algorhitm to identify FA rhytm
 ## What is AF? 
  
 Atrial Fibrillation - irregular rapid (>200 bpm) atrial rhythm causing irregular heart (ventricles) rhythm. 
+
 Scientific Definition (Wiki):
+
 Atrial fibrillation (AF) is a common abnormal heart rhythm that happens when electrical impulses fire off from different places in the atria (the top chambers of the heart) in a disorganised way. This causes the atria to twitch and is felt as an irregular heartbeat or pulse.
  
 ### AF burden is high, approximately 1-2 % of the whole population and grows higher every year with eldering of the population (See brochure “AF Full report” for additional information).
