@@ -33,8 +33,8 @@ The application should be used by “experienced” AF patients, which means tha
 * App checks if rhythm is over 80 bpm (lower rhythm is not dangerous) // Consult with Cardiologists
 * App checks the difference between the second longest and second shortest interval ( algorithm 		used in today’s pacemakers to differentiate between regular rhythm and FA)
 * If the difference is longer than setup delta (50 msec by default) than  -  Irregular rhythm 
-  *   Take prescriptions 
- 	*   Follow routine agreed with cardiologist
+  * Take prescriptions 
+  * Follow routine agreed with cardiologist
 * If the difference is shorter than delta  - Regular rhythm
  	*   Try to measure again.
  
