@@ -28,7 +28,7 @@ The application should be used by “experienced” AF patients, which means tha
 ## How it works?
  
 * Once user feels symptoms, he pushes the measurement button on the device (smartwatch) to start the application. 
- 	* (Sit down and relax)
+ * (Sit down and relax)
 * App counts consecutive heartbeats for approximately 10-15 seconds. 
 * App checks if rhythm is over 80 bpm (lower rhythm is not dangerous) // Consult with Cardiologists
 * App checks the difference between the second longest and second shortest interval ( algorithm 		used in today’s pacemakers to differentiate between regular rhythm and FA)
