@@ -18,7 +18,7 @@ Atrial fibrillation (AF) is a common abnormal heart rhythm that happens when el
  
 ## Application description
  
- Application is used to count variability of heart rhythm and detect irregular rhythm. To avoid misinterpretation between different arrhythmias, I use terminology as “irregular rhythm” instead of Atrial Fibrillation.
+Application is used to count variability of heart rhythm and detect irregular rhythm. To avoid misinterpretation between different arrhythmias, I use terminology as “irregular rhythm” instead of Atrial Fibrillation.
  
 ## Benefits 
  
