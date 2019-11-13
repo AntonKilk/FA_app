@@ -12,4 +12,5 @@ Acceptance criteria:
       * Developers contact Information with e-mail
 
 Notes:
+- e-mail addres: ant.kilk@gmail.com
 - We migh need to add disclosure and advise to consult with cardiologist before using the application.
