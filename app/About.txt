@@ -1,14 +1,14 @@
 // Page "About". Information page.
 
-** Title: ** User can find information about developers, app version, e-mail address.
+Title: User can find information about developers, app version, e-mail address.
 Description: As a user I want to know, whoc created the app, what version it is and where to send feedback.
 
 Acceptance criteria:
-    Given I am on homepage of app.
-    Then I should see button "About"
-    When I click button "About"
-    Then I should see the information page "About" that contains:
-        Application version
-        Developers contact Information with e-mail
+  * Given I am on homepage of app.
+  * Then I should see button "About"
+  * When I click button "About"
+  * Then I should see the information page "About" that contains:
+      * Application version
+      * Developers contact Information with e-mail
 
 
