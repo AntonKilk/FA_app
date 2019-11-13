@@ -1,0 +1,26 @@
+// Page "Help". Information page.
+
+Title: User can find detailed instructions on how to use the app
+Description: As a user I want to know, whoc created the app, what version it is and where to send feedback.
+
+Acceptance criteria:
+    Given I am on homepage of app.
+    Then I should see button "Help"
+    When I click button "Help"
+    Then I should see the information page "Help". See below the contents.
+
+Contents:
+If you feel the symptoms of arrhytmia, push the button "Measure".
+Sit down and try to relax during measurement period.
+Do not move your hands.
+Measurement can take up to 30 seconds. 
+After measurement finished, you will see the results on the screen:
+    Irregular rhythm means that you are likely to have a paroxysm of arrhytmia. Please do following:
+        - Take prescriptions 
+        - Follow routine agreed with cardiologist
+    Regular rhythm means that your heart rhytm is normal. If you suspect that measurement was wrong, you can try to measure again.  
+        
+
+Notes:
+ - Language of instructions should change together with inteface language
+ - Instructions may change depending on browser/operating system?
