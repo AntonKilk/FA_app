@@ -1,6 +1,6 @@
 // Page "About". Information page.
 
-Title: User can find information about developers, app version, e-mail address.
+** Title: ** User can find information about developers, app version, e-mail address.
 Description: As a user I want to know, whoc created the app, what version it is and where to send feedback.
 
 Acceptance criteria:
