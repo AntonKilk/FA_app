@@ -1,0 +1,1 @@
+// "History". Input screen with collected data, statistics and comments.

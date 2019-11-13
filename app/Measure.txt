@@ -1,0 +1,19 @@
+// "Measure". Data input screen. Homepage.
+
+Title: User can test the rhythm to find out whether it is regular or irregular.
+Description: As a user I want to know if my heart rhythm is regular or irregular.
+
+Acceptance criteria:
+    Given I am on homepage of app, which is "Measure" page.
+    I should see the menu with other options "History", "Help", "About".
+    Then I should see button "Measure"
+    When I click button
+    Then I should see the confirmation that measurement is in process
+    And I should see the recomendations:
+      * Sit down and try to relax during measurement period.
+      * Do not move your hands.
+    When the measurement is done I should see the result:
+      * Your rhythm is regular,
+      or
+      * Your rhythm is irregular.
+      
