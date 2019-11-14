@@ -5,6 +5,8 @@
 # tachy v 1.0.1
 
 <p> For technical support or when you have suggestions or comments do not hesitate to contact me at [ant.kilk@gmail.com]<ant.kilk@gmail.com> </p>
+  http://github.com - automatic!
+[GitHub](http://github.com)
 
 <p> [E-mail icon here](mailto:ant.kilk@gmail.com)</p>
 
