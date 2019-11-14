@@ -1,7 +1,7 @@
 // "About". Information screen.
 
-Title: User can find information about developers, app version, e-mail address.
-Description: As a user I want to know, who created the app, what version it is and where to send feedback.
+<p>Title: User can find information about developers, app version, e-mail address.</p>
+<p>Description: As a user I want to know, who created the app, what version it is and where to send feedback. </p>
 
 Acceptance criteria:
   * Given I am on homepage of app.
