@@ -9,4 +9,4 @@
 <p> [E-mail icon here](mailto:ant.kilk@gmail.com)</p>
 
 <p> If you like this app and think others might find this application useful, sharing your experience in a short review will be highly appreciated. </p>
-<p> [Link to App Store here](http://example.com) </p>
+<p> [Link to App Store here]</p>
