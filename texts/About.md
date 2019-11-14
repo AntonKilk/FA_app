@@ -1,6 +1,6 @@
 # *Tachy* app
 
-## [i About]
+## [i] About
 
 ## v 1.0.1
 
