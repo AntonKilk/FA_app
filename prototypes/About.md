@@ -7,7 +7,7 @@ Acceptance criteria:
   * Given I am on homepage of app.
   * Then I should see button "About"
   * When I click button "About"
-  * Then I should see the information page "About" that contains:
+  * Then I should see the information page "About" that <br >contains:
       * Application version
       * Developers contact Information with e-mail
 
