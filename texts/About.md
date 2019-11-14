@@ -1,8 +1,8 @@
-# Tachy app
+# *Tachy* app
 
-# i About
+## i About
 
-# tachy v 1.0.1
+## v 1.0.1
 
 <p> For technical support or when you have suggestions or comments do not hesitate to contact me at [ant.kilk@gmail.com](ant.kilk@gmail.com) </p>
 
