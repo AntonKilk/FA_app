@@ -4,14 +4,11 @@
 
 ## v 1.0.1
 
-For technical support or when you have suggestions or comments do not hesitate to contact me at [ant.kilk@gmail.com](ant.kilk@gmail.com). 
+Please contact us with any questions or suggestions.
 
-//Add button
-<a href="mailto: ant.kilk@gmail.com">Send E-mail</a>
+[Tech support](mailto:ant.kilk@gmail.com)
 
-If you like this app and think others might find this application useful, sharing your experience in a short review will be highly appreciated.
+[Feedback](mailto:ant.kilk@gmail.com)
 
-//Add button
-<a href="mailto: ant.kilk@gmail.com">Send feedback</a>
-
-
+If you liked this app and you think others may find it useful, please share your experience with a short review
+and send us a link. -- TODO add some wish like "Have a good Healt"
