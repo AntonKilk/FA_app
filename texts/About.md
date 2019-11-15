@@ -2,7 +2,7 @@
 
 ## [i] *About*
 
-## v 1.0.1
+**App version: 1.0.1**
 
 Please contact us with any questions or suggestions.
 
