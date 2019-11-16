@@ -1,4 +1,4 @@
-# *Tachy* app
+# *inSinus* app
 
 ## [i] *About*
 
@@ -11,4 +11,6 @@ Please contact us with any questions or suggestions.
 [Feedback](mailto:ant.kilk@gmail.com)
 
 If you liked this app and you think others may find it useful, please share your experience with a short review
-and send us a link. -- TODO add some wish like "Have a good Healt"
+and send us a link. 
+
+Let's stay in sinus!
