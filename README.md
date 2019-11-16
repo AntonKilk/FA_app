@@ -9,7 +9,7 @@ Atrial fibrillation (AF) is characterized by an irregular and often fast heartbe
 
 > Atrial fibrillation (AF or A-fib) is an abnormal heart rhythm characterized by rapid and irregular beating of the atrial chambers of the heart. Often it starts as brief periods of abnormal beating which become longer and possibly constant over time. Often episodes have no symptoms. Occasionally there may be heart palpitations, fainting, lightheadedness, shortness of breath, or chest pain. The disease is associated with an increased risk of heart failure, dementia, and stroke. <a href="https://en.wikipedia.org/wiki/Atrial_fibrillation">Wiki</a>
 
-[AF burden](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4064952/) is high, approximately 2-3% of the whole population and grows higher every year with eldering of the population. See “AF Full report” brochure for additional information.
+[AF burden](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4064952/) is high, approximately 2-3% of the whole population and grows higher every year with eldering of the population.
 
 ## Application
 
