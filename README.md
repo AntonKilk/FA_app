@@ -18,7 +18,7 @@ The application should be used by “experienced” patients (who have already c
 
 ### Algorithm
 
-The algorithm takes into account the natural variability of heart rhythms and detects irregular rhythms. To avoid misinterpretation between different arrhythmias, the "irregular rhythm" term is used instead of the "atrial fibrillation". 
+The algorithm takes into account the natural variability of heart rhythm and detects irregular rhythm. To avoid misinterpretation between different arrhythmias, the "irregular rhythm" term is used instead of the "atrial fibrillation". 
 
 * Once the "Measurement" button pushed, the app counts consecutive heartbeats for approximately 10-15 seconds. 
 * The app checks whether the heart rhythm is regular (sinus rhythm) or irregular (atrial fibrillation).
